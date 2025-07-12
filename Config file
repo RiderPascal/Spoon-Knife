@@ -1,0 +1,9 @@
+auto read messages true
+unban account true
+auto view status active
+auto download photo and video set view once active
+antilink delete true
+auto recover deleted message true
+auto reply messages false
+auto react status true
+reject video call true
